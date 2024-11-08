@@ -44,8 +44,8 @@ Saint Louis University, USA (Expected Graduation: May 2025)
 In addition to my technical projects, I have a strong passion for art, craft, and photography, which I showcase on my [Instagram](#) page.
 
 ## 📫 Contact Me
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Nikhil Yadav](https://linkedin.com/in/nikhil-yadav)
-- **GitHub**: [github.com/nikhil-yadav](https://github.com/nikhil-yadav)
+- **Email**: [nikhilyadav12.ny@gmail.com](mailto:nikhilyadav12.ny@gmail.com)
+- **LinkedIn**: [Nikhil Yadav](https://www.linkedin.com/in/nikhil-yadav12/)
+- **GitHub**: [github.com/nikhil-yadav](https://github.com/Nikhil-yadav12/)
 
 Feel free to reach out if you’d like to connect or collaborate on a project!
